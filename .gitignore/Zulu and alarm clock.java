@@ -6,11 +6,8 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
 /*
- * HackerEart Zulu and alarm clock
- */
-/**
- *
- * @author Camilo Camargo
+ * @name HackerEart Zulu and alarm clock
+ * @author Jhon Velasco
  */
 public class ZuluAndAlarmClock {
 
