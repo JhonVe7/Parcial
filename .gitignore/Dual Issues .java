@@ -3,7 +3,11 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-
+**
+ * @name Dual Issues
+ * @author jhon velasco
+ * @version 1 / 08.05.2018
+ */
 public class Dual_Issues {
 	
 	public boolean isPrime(int x) {
