@@ -5,9 +5,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-/*
+**
  * @name HackerEart Zulu and alarm clock
- * @author Jhon Velasco
+ * @author jhon velasco
+ * @version 1 / 08.05.2018
  */
 public class ZuluAndAlarmClock {
 
