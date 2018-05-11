@@ -1,8 +1,9 @@
 import java.util.*;
 
-/*
- * @name HackerEart Zulu and alarm clock
- * @author Jhon Velasco
+**
+ * @name Decreasing Max partitionk
+ * @author jhon velasco
+ * @version 1 / 08.05.2018
  */
 public class maxpr {
 	public static void main(String args[]){
